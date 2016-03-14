@@ -1,0 +1,7 @@
+MainPackage=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\bin\ARM\Release\Upload\BiciMAD Map_1.1.3.0_ARM.appx
+SymbolPackage=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\AppPackages\BiciMAD Map_1.1.3.0\BiciMAD Map_1.1.3.0_ARM.appxsym
+ResourcePack=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\_language-es.appx
+ResourcePack=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\_scale-100.appx
+ResourcePack=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\_scale-125.appx
+ResourcePack=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\_scale-150.appx
+ResourcePack=C:\Users\Joe\documents\visual studio 2015\Projects\BiciMAD Map\BiciMAD Map\_scale-400.appx
